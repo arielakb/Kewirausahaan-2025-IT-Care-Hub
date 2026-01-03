@@ -13,7 +13,7 @@
 ---
 
 ## 🔍 1. Laporan Validasi Lapangan (Field Work)
-Kami telah melakukan **validasi masalah** melalui wawancara dengan **[jumlah responden]** di wilayah **[lokasi]** yang relevan dengan masalah yang ingin kami selesaikan.
+Kami telah melakukan **validasi masalah** melalui wawancara dengan **[6 responden]** di wilayah sekitar yang relevan dengan masalah yang ingin kami selesaikan.
 
 **Permasalahan Utama:**  
 Kami menemukan bahwa banyak pengguna laptop/PC menghadapi masalah umum:
