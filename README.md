@@ -29,17 +29,17 @@ Di sini, **TechCare Hub** hadir untuk memberikan solusi:
 - **Perkiraan Biaya & Kelayakan Perbaikan**: Kami memberikan estimasi biaya perbaikan dan menilai apakah perangkat layak diperbaiki atau lebih baik membeli yang baru, membantu pelanggan membuat keputusan yang lebih baik.
 - **Sistem Rekomendasi yang Akurat dan Mudah Digunakan**: Menggunakan teknologi, kami memastikan setiap rekomendasi yang diberikan adalah tepat, membuat pelanggan lebih tenang dan menghindari kekhawatiran biaya berlebih atau kualitas perbaikan.
 
-📄 **[AKSES DOKUMEN: Laporan Validasi & Bukti Lapangan (Google Docs)](Link_Google_Docs)**  
+📄 **[AKSES DOKUMEN: Laporan Validasi & Bukti Lapangan (Google Docs)](https://docs.google.com/document/d/1fPx_-_OyWRWR7tcxa7ENrB_KGR7hOwifdu0F52SYwak/edit?tab=t.0)**  
 *(Dokumen ini memuat transkrip wawancara, foto kegiatan, dan analisis validasi)*
 
 ---
 
 ## 📊 2. Arsitektur Keuangan & Model Bisnis
-* **Modal Awal:** Rp [Nominal]
-* **Break Even Point (BEP):** Bulan ke-[Sekian]
-* **Proyeksi Profit (Bulan ke-3):** Rp [Nominal]
+* **Modal Awal:** Rp 10,000,000
+* **Break Even Point (BEP):** Bulan ke-5 
+* **Proyeksi Profit (Bulan ke-3):** Rp -2,063,000  
 
-📈 **[AKSES DOKUMEN: Perhitungan Keuangan Lengkap (Google Sheets)](Link_Google_Sheets)**  
+📈 **[AKSES DOKUMEN: Perhitungan Keuangan Lengkap (Google Sheets)](https://docs.google.com/spreadsheets/d/14tRtobCDRUcbk8bqb80ouaGRmbts0z_fXv9enPIzgmE/edit?usp=sharing)**  
 *(Lembar kerja ini memuat perhitungan HPP, BEP, Arus Kas, dan Neraca dengan formula aktif)*
 
 ---
